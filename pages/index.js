@@ -1,7 +1,7 @@
 function Home() {
     return (
         <div>
-            <h1>Welcome to My Next.js App</h1>
+            <h1>Alteração do testo para teste</h1>
         </div>
     );
 }
