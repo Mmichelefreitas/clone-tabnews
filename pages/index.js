@@ -1,7 +1,7 @@
 function Home() {
     return (
         <div>
-            <h1>Alteração do testo para teste</h1>
+            <h1>Sérgio, se você me ama dá uma risadinha!! </h1>
         </div>
     );
 }
